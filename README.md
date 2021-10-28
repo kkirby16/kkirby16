@@ -1,6 +1,8 @@
-### Hi there, I'm Kevin Kirby 👋
+<h3 align="center"> Hi there, I'm Kevin Kirby 👋</h3>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=kkirby16)](https://github.com/kkirby16)
+<h2 align="center"> I'm a Full-Stack Software Developer </h2>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=kkirby16&bg_color=ANGLE,ORANGE,PURPLE)](https://github.com/kkirby16)
 
 <!--
 **kkirby16/kkirby16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
