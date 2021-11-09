@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-LinkedIn: https://www.linkedin.com/in/kevinpkirby/
-Technical Blog: https://dev.to/kkirby16
+How to reach me: 
+<a href="https://www.linkedin.com/in/kevinpkirby/" ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)/>
