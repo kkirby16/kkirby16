@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left"> How to reach me: </h2>
-<a href="https://dev.to/kkirby16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a><a href="https://www.linkedin.com/in/kevinpkirby/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:kevinkirby120@gmail.com"><img src="https://img.shields.io/badge/kevinkirby120@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p dir="auto"><a href="https://dev.to/kkirby16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a><a href="https://www.linkedin.com/in/kevinpkirby/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:kevinkirby120@gmail.com"><img src="https://img.shields.io/badge/kevinkirby120@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
  
 
 
