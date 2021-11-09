@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 -->
 
 LinkedIn: https://www.linkedin.com/in/kevinpkirby/
+Technical Blog: https://dev.to/kkirby16
