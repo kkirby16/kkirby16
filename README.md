@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, I'm Kevin Kirby 👋</h3>
+<h3 align="center"> Hi there, I'm Kevin Kirby �	<img href="https://camo.githubusercontent.com/e8e7b06ecf583bc…a434c467a6361737252346961377a2f67697068792e676966"/></h3>
 
 <h2 align="center"> I'm a Full-Stack Software Developer </h2>
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left"> How to reach me: </h2>
-<a href="https://dev.to/kkirby16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a><a href="https://www.linkedin.com/in/kevinpkirby/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:kevinkirby120@gmail.com"><img src="<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" width="1.33em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 193"><path d="M58.182 192.05V93.14L27.507 65.077L0 49.504v125.091c0 9.658 7.825 17.455 17.455 17.455h40.727z" fill="#4285F4"/><path d="M197.818 192.05h40.727c9.659 0 17.455-7.826 17.455-17.455V49.505l-31.156 17.837l-27.026 25.798v98.91z" fill="#34A853"/><path fill="#EA4335" d="M58.182 93.14l-4.174-38.647l4.174-36.989L128 69.868l69.818-52.364l4.67 34.992l-4.67 40.644L128 145.504z"/><path d="M197.818 17.504V93.14L256 49.504V26.231c0-21.585-24.64-33.89-41.89-20.945l-16.292 12.218z" fill="#FBBC04"/><path d="M0 49.504l26.759 20.07L58.182 93.14V17.504L41.89 5.286C24.61-7.66 0 4.646 0 26.23v23.273z" fill="#C5221F"/></svg>" /></a>
+<a href="https://dev.to/kkirby16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a><a href="https://www.linkedin.com/in/kevinpkirby/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:kevinkirby120@gmail.com"><img src="https://img.shields.io/badge/kevinkirby120@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
 
 
