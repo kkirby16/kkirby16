@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">📈 GitHub Stats</h2>
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=kkirby16&bg_color=ANGLE,ORANGE,PURPLE)](https://github.com/kkirby16)
 
 <h2 align="left"> How to reach me: </h2>
