@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there, I'm Kevin Kirby <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h3> 
+<h3 align="center"> Hi there, I'm Kevin Kirby <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h3>
 
 <h2 align="center"> I'm a Full-Stack Software Developer </h2>
 
@@ -7,6 +7,9 @@
 
 <h2>I'm currently learning:</h2>
 <p>Responsive design, GSAP, and more about React hooks and flexbox.</p>
+
+<h2>🔭 I'm currently working on:</h2>
+<p>My porfolio website and adding features to past projects.</p>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=kkirby16&bg_color=ANGLE,ORANGE,PURPLE)](https://github.com/kkirby16)
 
@@ -30,4 +33,4 @@ Here are some ideas to get you started:
 
 <p>If you have any questions/feedback feel free to reach out to me!</p>
 
-
+<h4>Check out my pinned projects below 👇</h4>
