@@ -12,7 +12,7 @@
 <h2>🔭 I'm currently working on:</h2>
 <p>My porfolio website and adding features to past projects.</p>
 
-<h2>🌱 I'm looking to collaborate on:</h2>
+<h2>👯 I'm looking to collaborate on:</h2>
 <p>A frontend-focused weather application with OpenWeatherMap api and a frontend.</p>
 
 <!--
