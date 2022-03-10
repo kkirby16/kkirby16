@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></div>
 
 <h2>🌱 I'm currently learning:</h2>
-<p>Responsive design, GSAP, and more about React hooks and flexbox.</p>
+<p>Java and more about Flexbox</p>
 
 <h2>🔭 I'm currently working on:</h2>
-<p>My porfolio website and adding features to past projects.</p>
+<p>Adding features to past projects.</p>
 
 <h2>👯 I'm looking to collaborate on:</h2>
 <p>A frontend-focused weather application with OpenWeatherMap api and a frontend.</p>
