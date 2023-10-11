@@ -3,6 +3,8 @@
 <h2 align="center"> I'm a Full-Stack Software Developer 👨‍💻</h2>
 <h4 align="center"> I'm always learning and continually aiming to use my problem solving skills, analytical mind, detail-orientedness, and communication skills to deliver valuable experiences to users.</h4>
 
+<h3 align="center"><a href="https://kevink-portfolio.netlify.app/">Click here to see my portfolio site.</a></h3>
+
 <h2 align="left">💼 Languages and tools: </h2>
 <div align="left"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=kkirby16&title=PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">📬 How to reach me: </h2>
-<p dir="auto"><a href="https://dev.to/kkirby16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a><a href="https://www.linkedin.com/in/kevinpkirby/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:kevin.pkirby4@gmail.com"><img src="https://img.shields.io/badge/kevin.pkirby4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+<p dir="auto"><a href="mailto:kevin.pkirby4@gmail.com"><img src="https://img.shields.io/badge/kevin.pkirby4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/kevinpkirby/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://dev.to/kkirby16"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a></p>
 
 <p>If you have any questions/feedback feel free to reach out to me!</p>
 
